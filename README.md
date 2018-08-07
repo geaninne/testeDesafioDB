@@ -15,23 +15,23 @@ Requisitos:
 
 Pacotes:
 
-  Os pacotes se encontram dentro do diretorio: src/test/java
+   Os pacotes se encontram dentro do diretorio: src/test/java
 
-  pages: Pacote contém as páginas utilizadas no teste (Estratégia de Organização PageObjects)
+    pages: Pacote contém as páginas utilizadas no teste (Estratégia de Organização PageObjects)
   
-  suport: Pacote contém classes que auxiliares: Screenshot(captura de tela), Generator (gera uma string), Web (cria e encerra uma instancia do Chrome, seguindo o padrão SingleTown) 
+     suport: Pacote contém classes que auxiliares: Screenshot(captura de tela), Generator (gera uma string), Web (cria e encerra uma instancia do Chrome, seguindo o padrão SingleTown) 
   
-  tasks: Pacote contém classes que realizam tarefas inclusas no teste como: adicionar produto ao carrinho e cadastrar usuário.
+    tasks: Pacote contém classes que realizam tarefas inclusas no teste como: adicionar produto ao carrinho e cadastrar usuário.
   
-  tests: Contém a classe com o caso de teste.
+    tests: Contém a classe com o caso de teste.
   
-  verifications: Contém classes que realizam verificações durante a execução do teste.
+    verifications: Contém classes que realizam verificações durante a execução do teste.
 
 
 Instruções de Execução:
 
-  Clique em Build Project;
-Vá até a classe ComprarProdutoTest e execute o teste.
+    Clique em Build Project;
+    Vá até a classe ComprarProdutoTest e execute o teste.
 
 
 
