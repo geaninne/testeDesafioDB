@@ -30,6 +30,7 @@ Pacotes:
   
     verifications: Contém classes que realizam verificações durante a execução do teste.
 
+No diretório reports/screenshots estão armazenadas as capturas de telas obtidas.
 
 Instruções de Execução:
 
