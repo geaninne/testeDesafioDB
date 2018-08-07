@@ -35,6 +35,7 @@ No diretório reports/screenshots estão armazenadas as capturas de telas obtida
 Instruções de Execução:
 
     Clique em Build Project;
+    Vá até a classe RegisterUsersTasks no metodo register e altere o parametro passado na chamada da funcao fillForm para um email que ainda não tenha sido registrado no site.
     Vá até a classe ComprarProdutoTest e execute o teste.
 
 
