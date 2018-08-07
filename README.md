@@ -4,9 +4,12 @@ Teste automatizado com Selenium WebDriver.
 TestCase: realizar uma compra com sucesso.
 
 Requisitos:
-  IDE IntellijIdea -> jetbrains.com
-  Chrome WebDriver = https://sites.google.com/a/chromium.org/chromedriver/downloads
-  JDK 8
+
+    IDE IntellijIdea -> jetbrains.com
+  
+    Chrome WebDriver = https://sites.google.com/a/chromium.org/chromedriver/downloads
+    
+    JDK 8
 
   Dependencias Maven:
 
