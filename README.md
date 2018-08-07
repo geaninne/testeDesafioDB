@@ -22,7 +22,7 @@ Pacotes:
 
     pages: Pacote contém as páginas utilizadas no teste (Estratégia de Organização PageObjects)
   
-     suport: Pacote contém classes que auxiliares: Screenshot(captura de tela), Generator (gera uma string), Web (cria e encerra uma instancia do Chrome, seguindo o padrão SingleTown) 
+    suport: Pacote contém classes auxiliares: Screenshot(captura de tela), Generator (gera uma string), Web (cria e encerra uma instancia do Chrome, seguindo o padrão SingleTown) 
   
     tasks: Pacote contém classes que realizam tarefas inclusas no teste como: adicionar produto ao carrinho e cadastrar usuário.
   
